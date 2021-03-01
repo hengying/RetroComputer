@@ -10,6 +10,9 @@ Inspired by some retro computer projects, I made this Retro Computer. The Basic 
 * a command line console
 * Basic intepreter
 
+## Dependence
+* Pygame
+
 ## Running method
 ```
 python main.py
