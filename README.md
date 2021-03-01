@@ -1,5 +1,5 @@
 # RetroComputer
-Inspired by some retro computer projects, I made this Retro Computer. The Basic intepreter is programmed by [richpl](https://github.com/richpl/PyBasic).
+Inspired by some retro computer projects, I made this Retro Computer. The Basic intepreter is programmed by [richpl](https://github.com/richpl/PyBasic). listcmd module is from [agroszer/komodo-python-dbgp](https://github.com/agroszer/komodo-python-dbgp/blob/master/dbgp/listcmd.py).
 
 ## Parts
 * Raspberry Pi 4b
